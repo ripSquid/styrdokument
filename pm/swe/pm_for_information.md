@@ -9,14 +9,14 @@ Denna PM är avsedd att reglera sektionens officiella informationskanaler samt s
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2013-02-18
+Senast ändrat: 2021-02-25
 
 ## 2 Officiella informationskanaler
 
 - Sektionswebbplatsen, [https://www.insektionen.se](https://www.insektionen.se)  
 - Massutskick via e-post för SM.  
   Övriga utskick via e-post skall godkännas av sektionsstyrelsen.
-  - Inlägg på IN-Sektionens Facebooksida.
+- Inlägg på IN-Sektionens Facebooksida.
 
 ## 3 Informationspraxis
 
