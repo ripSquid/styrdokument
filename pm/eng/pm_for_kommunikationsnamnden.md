@@ -11,7 +11,7 @@ The purpose of the Communication Committee is to coordinate communication, flow 
 ### 1.2 History
 
 Created: 2014-01-01  
-Last revision: 2021-02-25
+Last revision: 2021-12-13  
 
 ## 2 Organisation and activities
 

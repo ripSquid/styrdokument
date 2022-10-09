@@ -86,3 +86,4 @@ Memo for the Chapter's Locals, 2008-12-11
 Memo for the Chapter's Profile, 2014-02-10  
 Memo for the Elections Committee, 2014-02-10  
 Memo for the Safety Officer, 2014-09-22  
+

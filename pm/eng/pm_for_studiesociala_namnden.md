@@ -1,18 +1,17 @@
-# Memo for the Student Social Committee
+# Memo for the Study Social Committee
 
 # Formalia
 
 ### 1.1 Purpose
 
-This Memo regulates the chapter's student social committee.  
-The student social committee is responsible developing the chapter's student life for the long term.  
-It is also responsible for working with the operative parts of the chapter that conducts the work and to drive JML related work for the chapter members.  
-JML is the work conducted within KTH and its english translation is Equality, Diversity and Equal Conditions.  
+This Memo regulates the chapter's Study Social Committee.
+The Study Social Committee is responsible for developing student life within the chapter in the long term.
+To collaborate with the operational bodies within the chapter that carry out that work and run JML- and INternationally-linked work for chapter members.
 
 ### 1.2 History
 
 Established: 2020-05-20  
-Last revision: 2020-05-20
+Last revision: 2021-12-13
 
 ### 1.3 Revisions to this Memo
 
@@ -22,46 +21,58 @@ In order to pass a revision of this Memo a decision has to be made with a qualif
 
 ### 2.1 Composition
 
-The student social board is composed of:
+The Study Social board is composed of:
 
-- President and Board Member responsible for student social activities.  
-- Vice president and responsible for JML questions.  
+- President and Board Member responsible for study social activities.  
+- JML-coordinator
+- INternational-coordinator (INt)
 
-The Student social board can elect more board members.  
+The Study Social board can elect more board members.  
 An individual chapter member may only occupy one seat on the board at any given time.  
 
-The Student social committee can also include:  
+The Study Social Committee can also include:  
 
-- JML team
+- JML-workgroup
+- INternational-workgroup
 
 ### 2.2 Appointment
 
-All board representatives of the chapter's student social committee are elected by the Chapter Meeting.  
+All board representatives of the chapter's Study Social Committee are elected by the Chapter Meeting.  
 
-The members of the JML team can be appointed by the Student social committee's board.
+- Members of the JML-workgroup are appointed by the board of the Study Social Committee.
+- Members of the INternational-workgroup are appointed by the board of the Study Social Committee.
 
 ## 3 Individual responsibility
 
-### 3.1 Board member responsible for student social activities
+### 3.1 Board member responsible for Study Social activities
 
-Convener and president of the Study social committee is the board member responsible for the student social activities.  
-It is the responsibility of the board member that meetings are held with the committee before each board meeting.  
-Their responsibilities and duties are further regulated in the Memo for the chapters board.  
+Convener and president of the Study social committee is the board member responsible for the Study Social activities.
 
-### 3.2 Vice president and responsible for JML questions
+The board member is responsible for ensuring that meetings with the entire committee are held prior to each board meeting.
 
-Responsible for running the chapter's JML work and to be the convening responsible and leader of the JML team.  
+Their responsibilities and duties are further regulated in the "Memo for the Chapters Board".  
 
-These tasks include:
+### JML-coordinator
 
-- To spread the knowledge and understanding of JML within the chapter to its members.  
-- To inform the chapter's members of the JML work that is being conducted.  
-- To help chapter members in JML matters according to the chapter's course of action plan titled "Planned course of action in JML matters".  
-- To take part in the Train-the-Trainer education given by the KTH equality office with one or more members from the Studie social committee.  
-- To hold and arrange a JML workshop for new students during the reception.  
-- To hold and arrange a JML workshop for those that participate in the reception of new students.  
-- To hold and arrange a JML workshop so the chapter board and those holding a trustee position within the chapter has the opportunity to participate once during their elected term.  
+Is responsible for running the chapter's JML work and to be the convening responsible and leader of the JML team.  
 
-### 3.3 JML-Team
+The tasks of the JML-coordinator includes:
 
-Tasked to work with JML questions in the chapter under the vice president with responsibility for JML questions, leadership and with helping the vice president with responsibility got JML-questions to fulfill its responsibilities.  
+- To spread the knowledge and understanding of JML to the chapter members.  
+- To inform about the chapter’s JML work to all chapter members.
+- To help chapter members with JML issues according to the chapter's action plan called "Planned course of action in JML matters".  
+- To take part in the Train-the-Trainer education given by the KTH equality office with one or more members from the Study Social Committee.  
+- To organize and hold a JML-workshop for new students during the reception. 
+- To organize and hold a JML-workshop for those who participate in the reception of new students during the reception. 
+- To arrange and hold a JML-workshop so that the chapter's board and those who hold a position of trust within the chapter have the opportunity to participate at least once during their term of office.
+
+### 3.3 INternational-coordinator (INt)
+
+Is responsible for promoting the position of international students in the section as well as convening and chairing the INternational working group.
+
+The tasks of the INternational-coordinator includes:
+
+- To coordinate events with the chapter's various bodies that promote the integration of international students. 
+- To maintain a dialogue with THS International and attend their International Councils, or equivalent international related meetings concerning the chapter.
+- To work to ensure that international students are received during the reception periods.
+- To work to ensure that all information is available in English.
