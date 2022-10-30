@@ -9,7 +9,7 @@ The purpose of this Memo is to list all of the chapter's trustee elected positio
 ### 1.2 History
 
 Created: 2021-11-29  
-Last revision: 2021-11-29
+Last revision: 2022-09-27
 
 ### 1.3 Revising this Memo
 
@@ -97,17 +97,12 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - Root
 - Sudo
 
-#### 2.2.13 The Link
-
-- President
-- vice President
-
-#### 2.2.14 The Elections Committee
+#### 2.2.13 The Elections Committee
 
 - Convener
 - Member - at least 4
 
-#### 2.2.15 Andra Positioner
+#### 2.2.14 Andra Positioner
 
 - Auditor - two
 - Safety officer

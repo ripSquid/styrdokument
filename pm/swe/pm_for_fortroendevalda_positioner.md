@@ -10,7 +10,7 @@ Denna PM är avsedd till att lista alla sektionens förtroendevalda positioner.
 
 Upprättat: 2021-11-29
 
-Senast ändrat: 2021-11-29
+Senast ändrat: 2022-09-27
 
 ### 1.3 Ändrande av PM
 
@@ -98,17 +98,12 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 - Root
 - Sudo
 
-#### 2.2.13 The Link
-
-- Ordförande
-- vice Ordförande
-
-#### 2.2.14 Valberedningen
+#### 2.2.13 Valberedningen
 
 - Sammankallande
 - Medlem - minst 4
 
-#### 2.2.15 Andra Positioner
+#### 2.2.14 Andra Positioner
 
 - Revisor - två
 - Skyddsvårdsombud
