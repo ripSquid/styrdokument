@@ -4,7 +4,7 @@
 # Statutes of the Chapter for Information and Nanotechnology
 
 Adopted at the chapter meeting on 2008-12-11  
-Last edit made at the chapter meeting on 2021-05-27
+Last edit made at the chapter meeting on 2024-01-23
 
 \pagebreak
 
@@ -325,7 +325,7 @@ The following count as regular meetings:
   This meeting should be held after the election meeting but must always be held before the end of the working year.  
   This meeting should also treat next year's operational plan.  
 - the decharge meeting, where the decharge of the previous year's board is treated.  
-  It must be held at the latest 10 months after the end of the previous operational year.
+  It must be held at the latest 6 months after the end of the previous operational year, in accordance with THS bylaws.
 
 All other meetings count as extraordinary.
 
