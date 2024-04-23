@@ -9,7 +9,7 @@ The purpose of this Memo is to list all of the chapter's trustee elected positio
 ### 1.2 History
 
 Created: 2021-11-29  
-Last revision: 2021-11-29
+Last revision: 2023-12-05
 
 ### 1.3 Revising this Memo
 
@@ -60,6 +60,7 @@ The list may be changed without decisions at SM, where after SM decides on chang
 #### 2.2.5 Kommunikationsnämnden
 
 - vice President
+- History Responsible
 
 #### 2.2.6 Idrottsnämnden
 
@@ -107,7 +108,6 @@ The list may be changed without decisions at SM, where after SM decides on chang
 
 - Auditor - two
 - Safety officer
-- History Responsible
 - Standard bearer
 - vice Standard bearer
 - Stickkontaktsansvarig

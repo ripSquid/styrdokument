@@ -11,7 +11,7 @@ Kommunikationsnämndens syfte är att koordinera kommunikation, informationsflö
 ### 1.2 Historik
 
 Upprättat: 2014-01-01  
-Senast ändrat: 2022-09-27  
+Senast ändrat: 2023-12-05  
 
 ### 1.3 Ändrande av PM
 
@@ -21,8 +21,9 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 
 Kommunikationsnämndens styrelse består av:
 
-- Styrelseledamot med ansvar för Kommunikation  
+- Styrelseledamot med ansvar för Kommunikation (KommA)
 - Vice ordförande
+- Historieansvarig
 
 Dessa väljs av SM.
 
@@ -39,6 +40,15 @@ Denne ska arbeta långsiktigt och strategiskt med att utveckla kommunikationen i
 
 Vice ordförande ska i ordförandes frånvaro utöva dennes befogenheter och fullgöra dennes plikter.  
 Utöver detta innehar vice ordförande det ansvar som fördelas mellan denne och ordförande efter gemensam överenskommelse.
+
+### 2.3 Historieansvarig
+
+Den historieansvarige skall dokumentera och levandegöra sektionens historia på ett sådant sätt att alla sektionens framtida verksamheter kan dra nytta av det och alla sektionens medlemmar kan ta del av det.
+
+Den historieansvarige är huvudansvarig för att hålla kontakt med sektionens alumner.  
+I detta ingår att att informera dem om evenamang som kan vara interesanta för dem och skapa tillfällen för sektionens medlemmar att skapa kontakt med dem.
+
+Den historieansvarige skall se till att nämnder upprätthåller sin del av PM för traditioner och skall själv ansvara för att bevara sektionsövergripande traditioner.
 
 ## 3 Verksamhet
 
@@ -64,12 +74,11 @@ Kommunikationsnämnden ansvarar för:
 
 ### 3.3 Alumni
 
-Kommunikationsnämnden har delat ansvar med sektionens Historieansvarig för sektionens kontakt med skolans alumni.
+Historieansvarig ansvarar för sektionens kontakt med skolans alumni.
 
 I dessa uppgifter ingår:
 
-- att hålla kontaktlistor till alumnimedlemmarna uppdaterade  
-- att utse en kontaktperson mellan sektionen och alumnimedlemmarna  
+- att vara en kontaktperson mellan sektionen och alumnimedlemmarna  
 - att informera alumnimedlemmarna om de av sektionens event som kan vara intressanta för dessa  
 - att anordna event där sektionens medlemmar kan träffa och knyta kontakter med alumnimedlemmar, som t.ex. alumnipub
 

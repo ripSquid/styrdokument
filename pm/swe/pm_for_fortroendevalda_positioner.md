@@ -9,7 +9,7 @@ Denna PM är avsedd till att lista alla sektionens förtroendevalda positioner.
 ### 1.2 Historik
 
 Upprättat: 2021-11-29  
-Senast ändrat: 2021-11-29
+Senast ändrat: 2023-12-05
 
 ### 1.3 Ändrande av PM
 
@@ -60,6 +60,7 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 #### 2.2.5 Kommunikationsnämnden
 
 - vice Ordförande
+- Historieansvarig
 
 #### 2.2.6 Idrottsnämnden
 
@@ -107,7 +108,6 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 
 - Revisor - två
 - Skyddsvårdsombud
-- Historieansvarig
 - Fanbärare
 - vice Fanbärare
 - Stickkontaktsansvarig

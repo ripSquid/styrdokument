@@ -9,7 +9,7 @@ Syftet med denna PM är att formalisera samt reglera hur sektionens PM skall se 
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2021-02-25
+Senast ändrat: 2023-12-05
 
 ### 1.3 Ändrande av PM
 
@@ -64,7 +64,6 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 PM för PM, 2008-12-11  
 PM för Förtroendevalda Positioner 2021-11-29  
 PM för Grafisk Profil, 2017-05-23  
-PM för Historieansvarig, 2021-02-25  
 PM för ITerativa Klubben, 2008-12-11  
 PM för Idrottsnämnden, 2008-12-11  
 PM för Information, 2008-12-11  

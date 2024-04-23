@@ -9,7 +9,7 @@ The purpose of this memo is to formulate and to regulate the form and structure 
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2021-02-25
+Last revision: 2023-12-05
 
 ### 1.3 Revising this Memo
 
@@ -66,7 +66,6 @@ Memo for Business Relations Committee, 2008-12-11
 Memo for Communication Committee, 2014-01-01  
 Memo for Council of Safety, 2014-09-22  
 Memo for Graphical Profile, 2017-05-23  
-Memo for History Responsible, 2021-02-25  
 Memo for ITerativa Klubben, 2008-12-11  
 Memo for Information, 2008-12-11  
 Memo for Insignia, 2013-10-16  
