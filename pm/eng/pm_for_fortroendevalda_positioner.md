@@ -71,7 +71,8 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - INGEN
 - NÅGON
 - MÅNGA
-- Member - three
+- Member responsible for Budget
+- Member - two
 
 #### 2.2.8 PIFF och PUFF
 
@@ -83,16 +84,19 @@ The list may be changed without decisions at SM, where after SM decides on chang
 
 - TranditionsMästare
 - vice TraditionsMästare
+- Skattmästare
 
 #### 2.2.10 QMISK
 
 - QlubbMästare
 - vice QlubbMästare
+- Skattmästare
 
 #### 2.2.11 ITK
 
 - Root
 - Sudo
+- Bureaucracy Senator
 
 #### 2.2.12 The Elections Committee
 
