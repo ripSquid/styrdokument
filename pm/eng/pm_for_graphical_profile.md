@@ -68,7 +68,8 @@ It is strongly recommended that the chapter's regulatory documents are published
 ### 4.1 Chapter colour
 
 The chapter's colour is Kiselblå, it is defined as:  
-RGB/hex: `#44687D NCS: S 4030-B`  
+RGB/hex: `#44687D`  
+NCS: `S 4030-B`  
 CMYK: `45.6, 16.8, 0, 50.98`  
 PMS: `5405 C`  
 Lab: `42.2, -6.8, -15.7`

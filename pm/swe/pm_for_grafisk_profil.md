@@ -68,7 +68,8 @@ Det är starkt rekommenderat att även för sektionens styrdokument använda Ope
 ### 4.1 Sektionsfärg
 
 IN-sektionens sektionsfärg är Kiselblå, färgen definieras:  
-RGB/hex: `#44687D NCS: S 4030-B`  
+RGB/hex: `#44687D`  
+NCS: `S 4030-B`  
 CMYK: `45.6, 16.8, 0, 50.98`  
 PMS: `5405 C`  
 Lab: `42.2, -6.8, -15.7`
