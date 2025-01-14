@@ -57,7 +57,7 @@ En gasque för att avsluta en läsperiod och fira de avslutade tentorna.
 
 ## 6 Mottagningen
 
-### 6.1 FadderINternat
+### 6.1 FadderInternat
 
 Utflykt för de mottagningsaktiva.  
 Brukar involvera teambuildning och en gasque.

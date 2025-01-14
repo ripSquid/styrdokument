@@ -9,7 +9,7 @@ Denna PM är avsedd att reglera sektionens officiella informationskanaler samt s
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2022-09-27
+Senast ändrat: 2024-12-03
 
 ### 1.3 Ändrande av PM
 
@@ -17,10 +17,10 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 
 ## 2 Officiella informationskanaler
 
-- Sektionswebbplatsen, [https://www.insektionen.se](https://www.insektionen.se)  
+- Sektionswebbplatsen, [https://www.itsektionen.se](https://www.itsektionen.se)  
 - Massutskick via e-post för SM.  
   Övriga utskick via e-post skall godkännas av sektionsstyrelsen.
-- Inlägg på IN-Sektionens Facebooksida.
+- Inlägg på IT-Sektionens Facebooksida.
 
 ## 3 Informationspraxis
 
@@ -33,4 +33,4 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 ## 4 Regler för massutskick via e-post
 
 - I ämnesraden ska det klart och tydligt framgå att mailet gäller sektionsaktivitet.  
-  Till exempel genom att inkludera IN-Sektionen i titeln enligt formatet “`IN-Sektionen | <titel>`“.
+  Till exempel genom att inkludera IT-Sektionen i titeln enligt formatet “`IT-Sektionen | <titel>`“.

@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line -->
 ![](./img/logo-in-1500px.png)
 
-# Sektionen för Informations- och Nanotekniks Stadgar
+# Sektionen för Informationstekniks Stadgar
 
 Antagna vid Sektionsmötet 2008-12-11  
 Senast ändrade vid Sektionsmötet 2024-01-23
@@ -77,16 +77,12 @@ Senast ändrade vid Sektionsmötet 2024-01-23
 
 ### §1.1 Namn
 
-§1.1.1 Sektionens namn är Sektionen för Informations- och Nanoteknik.
+§1.1.1 Sektionens namn är Sektionen för Informationsteknik.
 
 ### §1.2 Färg
 
-§1.2.1 Sektionens sektionsfärg är kiselblå,  
-RGB HEX-kod `#44687d`,  
-NCS: `S 6020-R90B`,  
-CMYK: `78, 51, 37, 13`,  
-PMS: `5405C`,  
-Lab: `42, -9, -16`.
+§1.2.1 Sektionens sektionsfärg är laserviolett,  
+HEX: `#CC99FF`
 
 ### §1.3 Ändamål
 
@@ -139,8 +135,7 @@ Sektionsstyrelsen kan även föreslå andra firmatecknare som sektionsmötet kan
 
 ### §2.1 Styrdokument
 
-§2.1.1 Sektionens styrdokument utgörs av sektionens stadgar samt av sektionen
-upprättade PM.
+§2.1.1 Sektionens styrdokument utgörs av sektionens stadgar samt av sektionen upprättade PM.
 
 §2.1.2 Det åligger den avgående sektionsstyrelsen att, vid skifte, tillsammans med den tillträdande sektionsstyrelsen, gå igenom sektionens styrdokument.
 
@@ -549,8 +544,7 @@ Sådana skäl måste redovisas till, samt godkännas av sektionsmötet.
 §9.1.1 För viss verksamhet kan sektionsstyrelsen besluta om att inrätta en klubb.  
 Dess namn, ändamål, och sammansättning regleras i ett direktiv som upprättas vid upprättande av klubben.
 
-§9.1.2 Beslut om upprättande samt nedläggande av klubb sker genom beslut av
-sektionsstyrelsen.
+§9.1.2 Beslut om upprättande samt nedläggande av klubb sker genom beslut av sektionsstyrelsen.
 
 ### §9.2 Bemyndigande
 

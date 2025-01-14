@@ -6,12 +6,12 @@
 
 Detta direktiv är avsett att reglera klubben Strängteoretiquerna.
 
-Strängteoretiquerna är en klubb tillhörande Sektionen för Informations- och Nanoteknik som syftar till att främja bevarande och skapande av studentqultur.
+Strängteoretiquerna är en klubb tillhörande Sektionen för Informationsteknik som syftar till att främja bevarande och skapande av studentqultur.
 
 ### 1.2 Historik
 
 Upprättat: 2014-06-06  
-Senast ändrat: 2014-06-06
+Senast ändrat: 2024-12-03
 
 ## 2 Organisation
 

@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line -->
 ![The chapter's logo](./img/logo-in-1500px.png)
 
-# Statutes of the Chapter for Information and Nanotechnology
+# Statutes of the Information Technology Chapter
 
 Adopted at the chapter meeting on 2008-12-11  
 Last edit made at the chapter meeting on 2024-01-23
@@ -12,7 +12,7 @@ Last edit made at the chapter meeting on 2024-01-23
 |:---|---:|:---|---:|
 | §1 General Information | | §2 Regulatory documents |
 | §1.1 Name | | §2.1 Regulatory documents |
-| §1.2 Colour | | §2.2 Statutes |
+| §1.2 Color | | §2.2 Statutes |
 | §1.3 Purpose | | §2.3 Memos |
 | §1.4 Composition | | §2.4 Interpreting regulatory documents |
 | §1.5 Operational year | | --- |
@@ -77,26 +77,20 @@ Last edit made at the chapter meeting on 2024-01-23
 
 ### §1.1 Name
 
-§1.1.1 The chapter's name is Sektionen för Informations- och Nanoteknik (en. The
-Chapter for Information- and Nanotechnology)
+§1.1.1 The chapter's name is Sektionen för Informationsteknik (en. The Chapter for Information Technology)
 
-### §1.2 Colour
+### §1.2 Color
 
-§1.2.1 The chapter's chapter colour is kiselblå (silicon blue),  
-RGB HEX-kod `#44687d`,  
-NCS: `S 6020-R90B`,  
-CMYK: `78, 51, 37, 13`,  
-PMS: `5405C`,  
-Lab: `42, -9, -16`.
+§1.2.1 The chapter's chapter color is Laser Violet,
+HEX: `#CC99FF`
 
-### §1.3 Pupose
+### §1.3 Purpose
 
 §1.3.1 The purpose of the chapter is to promote studies, student life, and other related interests of the students at KTH Kista.
 
 ### §1.4 Composition
 
-§1.4.1 The chapter consists of its regular members, supporting members, and honorary
-members.  
+§1.4.1 The chapter consists of its regular members, supporting members, and honorarymembers.  
 To be considered a member one must pay the proper fees.
 
 ### §1.5 Operational year
@@ -105,8 +99,7 @@ To be considered a member one must pay the proper fees.
 
 ### §1.6 Authorised signatory
 
-§1.6.1 The chapter's authorised signatories are the chapter president and the chapter
-treasurer.  
+§1.6.1 The chapter's authorised signatories are the chapter president and the chapter treasurer.  
 They sign the chapter firm together.  
 
 The chapter board may suggest other signatories that the chapter meeting can approve.
@@ -185,8 +178,7 @@ Memos mentioned in the statutes cannot be abolished without a change to the stat
 
 ### §2.4 Interpreting regulatory documents
 
-§2.4.1 In the event of disputes regarding the interpretation of the chapter's regulatory documents these shall be interpreted in order by the chapter board, the
-chapter auditors, the chapter meeting, THS' auditors.  
+§2.4.1 In the event of disputes regarding the interpretation of the chapter's regulatory documents these shall be interpreted in order by the chapter board, the chapter auditors, the chapter meeting, THS' auditors.  
 If any part is displeased with the interpretation they have the right to take the case to a higher authority.
 
 §2.4.2 In the event of a dispute regarding the interpretation of the chapter's regulatory documents according to §2.4.1 it is the responsibility of the chapter board to present a suggested clarification on the next chapter meeting that aims to avoid any future disputes.
@@ -197,7 +189,7 @@ If any part is displeased with the interpretation they have the right to take th
 
 §3.1.1 The chapter is a nonprofit organisation.
 
-§3.2 Economy of the committees
+### §3.2 Economy of the committees
 
 §3.2.1 In the event of economic losses for any of the committees the chapter is responsible for covering said loss.
 
@@ -206,10 +198,10 @@ If any part is displeased with the interpretation they have the right to take th
 §3.2.3 The chapter can make exceptions from §3.2.2 in the committees' governing memo.  
 Decisions regarding the establishing and changing of such exceptions always require approval from the chapter meeting with a qualified majority.
 
-§3.2.4 A committee with its own budget  is required to make its accounting available to the chapter meeting and the chapter board.
+§3.2.4 A committee with its own budget is required to make its accounting available to the chapter meeting and the chapter board.
 
 §3.2.5 Committees with their own budget are authorized separately by the committee president and treasurer unless otherwise is stated in the committee's governing memo.  
-The authorizing  parties are responsible for the committee’s economy.  
+The authorizing parties are responsible for the committee’s economy.  
 Committees without its own economy shall not have any signatories.
 
 ### §3.3 Responsibilities
@@ -225,10 +217,7 @@ Committees without its own economy shall not have any signatories.
 
 ### §3.4 Budget
 
-§3.4.1 It is the responsibility of the departing chapter board together with the
-succeeding board to formulate a suggested budget for the next operational
-year, and to present it to the chapter meeting. The suggestion shall be made in
-the form of a proposition.
+§3.4.1 It is the responsibility of the departing chapter board together with the succeeding board to formulate a suggested budget for the next operational year, and to present it to the chapter meeting. The suggestion shall be made in the form of a proposition.
 
 §3.4.2 In order to make changes to an already accepted budget a qualified majority is
 required.
@@ -257,7 +246,7 @@ required.
 - to stand as a candidate for any position of responsibility within the chapter and THS, except for the position of supervisor.  
 - to attend board meetings.  
 - to utilise of services provided by the chapter.  
-- to wear the chapter's overalls with the chapter colour and the chapter's insignia.
+- to wear the chapter's overalls with the chapter color and the chapter's insignia.
 
 §4.2.2 It is the responsibility of regular members:
 
@@ -266,8 +255,7 @@ required.
 
 ### §4.3 Supporting member
 
-§4.3.1 A supporting member is a member of THS that has chosen to support the
-chapter.
+§4.3.1 A supporting member is a member of THS that has chosen to support the chapter.
 
 §4.3.2 A supporting member has the same rights as a regular member except for eligibility and the right to vote in the elections for the union council.
 
@@ -335,9 +323,7 @@ All other meetings count as extraordinary.
 
 §5.4.2 The chapter president is responsible for establishing the summons and a preliminary agenda at least 10 working days before the meeting, and that the summons is sent out to the union board and the union's auditors at least eight days before the meeting.
 
-§5.4.3 If at least 20 members, a chapter auditor, the union board, or the union's
-auditors so demand, an extra chapter meeting shall be held within 20 working
-days, unless this would go against §5.3, to process a stated matter.
+§5.4.3 If at least 20 members, a chapter auditor, the union board, or the union's auditors so demand, an extra chapter meeting shall be held within 20 working days, unless this would go against §5.3, to process a stated matter.
 
 ### §5.5 Quorate meetings
 
@@ -345,7 +331,8 @@ days, unless this would go against §5.3, to process a stated matter.
 
 ### §5.6 Postponement
 
-§5.6.1 Postponement of a part of the meeting is made after request by a voting member. A postponed matter shall be processed during the next chapter meeting.
+§5.6.1 Postponement of a part of the meeting is made after request by a voting member.  
+A postponed matter shall be processed during the next chapter meeting.
 
 ### §5.7 Decisions
 
@@ -399,13 +386,13 @@ The chapter secretary is responsible for making sure the protocols are adjusted 
 
 ### §6.1 Mandate
 
-§6.1.1 The mandate for The Chapter for Information- and Nanotechnology is the working year unless otherwise is stated in the chapter's regulatory documents.
+§6.1.1 The mandate for The Information Technology Chapter is the working year unless otherwise is stated in the chapter's regulatory documents.
 
 §6.1.2 Trustees attend their position of trust until the end of the mandate or until dismissal according to §6.2.3 or §6.2.4.
 
 ### §6.2 Appointment and removal
 
-§6.2.1 The regular election or approval of the chapter's trustees for the coming working  year occurs during the autumn semester, unless stated otherwise in the chapter's regulatory documents in accordance with §12.3.
+§6.2.1 The regular election or approval of the chapter's trustees for the coming working year occurs during the autumn semester, unless stated otherwise in the chapter's regulatory documents in accordance with §12.3.
 
 §6.2.2 By-elections of commissioners and deputies in the union council is conducted in accordance with THS' statutes.  
 By-elections to other positions of trust occur at the chapter meeting.
@@ -440,8 +427,7 @@ The chapter board is answerable for the chapter's activities to the chapter meet
 §7.2.1 The Board is composed of the chapter presidium and two (2) to six (6) board members.  
 These are further regulated in Memo For The Chapter Board.
 
-§7.2.2 The board's members must not have any payment defaults and must not be in
-any criminal record.
+§7.2.2 The board's members must not have any payment defaults and must not be in any criminal record.
 
 ### §7.3 The Chapter Presidium
 
@@ -470,12 +456,11 @@ If the decision regards economic spending a decision can only be made if the amo
 
 §7.5.1 The Board must hold meetings at least once every quarter of the year.
 
-§7.5.2 During board meetings all members of the board have the right to attend, speak, vote, and make proposals.  
-If the regular members cannot attend their respective deputies gain these rights.
+§7.5.2 The right to attend, speak, vote and make proposals at board meetings is granted to the regular members of the chapter board and to the deputy when the regular member is not present.
 
 §7.5.3 The deputies of the regular board members, members and deputies of the student union council, committee chairpersons, and the chapter's auditors have the right to attend, speak, and make proposals.
 
-§7.5.4 The board may co-opt additional persons to their meetings or parts thereof  with the right to attend, speak, and make proposals.
+§7.5.4 The board may co-opt additional persons to their meetings or parts thereof with the right to attend, speak, and make proposals.
 
 §7.5.5 All chapter members have the right to attend board meetings.
 
@@ -505,7 +490,8 @@ If that is done this must be noted together with a motivation in the minutes.
 
 §7.9.1 All decisions made at a board meeting shall be recorded in the meeting minutes.
 
-§7.9.2 A protocol of decisions shall be kept, it shall contain unretracted demands as well as stated notes and reservations. A list of attendees shall also be kept.
+§7.9.2 A protocol of decisions shall be kept, it shall contain unretracted demands as well as stated notes and reservations.  
+A list of attendees shall also be kept.
 
 §7.9.3 The protocol shall be adjusted by the chairman of the meeting and the secretary of the meeting.
 
@@ -610,7 +596,8 @@ Reasons why this should be must be presented to and approved by the chapter meet
 
 ### §11.2 Chapter auditor
 
-§11.2.1 The chapter's auditors are two (2) persons, of which one of the positions must always be filled.
+§11.2.1 The chapter's auditors are two (2) persons, of which one of the positions must always be filled.  
+These are elected by the chapter meeting.
 
 §11.2.2 For all bodies of the chapter there must exist at least one auditor that can audit the activities without risk for any bias in accordance with §11.3.2.
 
@@ -618,7 +605,8 @@ Reasons why this should be must be presented to and approved by the chapter meet
 
 §11.3.1 A chapter auditor cannot also be an ordinary member or deputy in the board.
 
-§11.3.2 An auditor that is a member of any part of the chapter may not take part in the auditing of the activities of said part with exception to membership in any of the chapter's clubs.
+§11.3.2 An auditor that is a member of any part of the chapter may not take part in the auditing of the activities of said part.  
+With exception to membership in any of the chapter's clubs.
 
 ### §11.4 Duties
 
@@ -674,13 +662,11 @@ The compilation shall be given to the board in good time in order for the chapte
 
 §12.3.1 Commissioners in the union council and their deputies are elected through a ballot in accordance with THS' statutes.
 
-§12.3.2 Other trustees within the chapter are elected or approved by the chapter
-meeting.  
+§12.3.2 Other trustees within the chapter are elected or approved by the chapter meeting.  
 Whether an election or approval shall be applied is regulated by the chapter's regulatory documents.  
 If such information does not exist an election shall be applied.
 
-§12.3.3 The chapter may decide to allow for other trustees to be elected through a
-ballot than those that are regulated in §12.3.1
+§12.3.3 The chapter may decide to allow for other trustees to be elected through a ballot than those that are regulated in §12.3.1.
 
 ## §13 Closing words
 

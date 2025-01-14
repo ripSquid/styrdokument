@@ -4,12 +4,12 @@
 
 ### 1.1 Syfte
 
-Syftet med denna PM är att klargöra de riktlinjer som gäller medlemmar i Sektionen för Informations- och Nanotekniks overaller samt sektionens övriga profilsaker.
+Syftet med denna PM är att klargöra de riktlinjer som gäller medlemmar i Sektionen för Informationstekniks overaller samt sektionens övriga profilsaker.
 
 ### 1.2 Historik
 
 Upprättat: 2014-02-10  
-Senast ändrat: 2022-09-27
+Senast ändrat: 2024-12-03
 
 ### 1.3 Ändrande av PM
 
@@ -23,7 +23,7 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 
 Overallerna är färgade i sektionens färg och får bäras av samtliga medlemmar.
 
-Färgen regleras i Sektionen för Informations- och Nanotekniks stadgar.
+Färgen regleras i Sektionen för Informationstekniks stadgar.
 
 #### 2.1.2 Overaller för mästerister i Qmisk
 
@@ -33,7 +33,7 @@ Mästerister i klubbmästeriet Qmisk får bära ockraröd overall.
 
 Sektionens medlemmar får bära overaller i tidigare sektionsfärger.
 
-Erkända färger är laserviolett, limegrön och ockraröd.
+Erkända färger är kiselblå, limegrön och ockraröd.
 
 ### 2.2 Revärer
 

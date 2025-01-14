@@ -40,7 +40,7 @@ An evening arranged by the KAM project group in order to make contacts between s
 
 ### 3.2 KAM: Kista Carreer Fair
 
-With the purpouse of making connections betweend students in Kista and employers.   KAM is organized by the KAM project group in The Buisness Relations Board.  
+KAM is organized by the KAM project group in the Buisness Relations Committee with the purpouse of making connections betweend students in Kista and employers.  
 KAM is usually concluded with a banquet.
 
 ## 4 QMISK
@@ -57,7 +57,7 @@ A gasque meant to end a study period and celebrate the finished exams.
 
 ## 6 The Reception
 
-### 6.1 FadderINternat
+### 6.1 FadderInternat
 
 A trip for the active members of the reception.  
 Usually involves team buidling and a gasque.
