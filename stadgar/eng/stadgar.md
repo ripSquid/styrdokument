@@ -4,7 +4,7 @@
 # Statutes of the Information Technology Chapter
 
 Adopted at the chapter meeting on 2008-12-11  
-Last edit made at the chapter meeting on 2024-01-23
+Last edit made at the chapter meeting on 2025-01-20
 
 \pagebreak
 
@@ -129,7 +129,7 @@ The chapter board may suggest other signatories that the chapter meeting can app
 
 ### §1.10 The chapter's birthday
 
-§1.10.1 The chapter's birthday is December the fourth 2008.
+§1.10.1 The chapter's birthday is September 12, 2000.
 
 ## §2 Regulatory documents
 

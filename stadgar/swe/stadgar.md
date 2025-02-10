@@ -4,7 +4,7 @@
 # Sektionen för Informationstekniks Stadgar
 
 Antagna vid Sektionsmötet 2008-12-11  
-Senast ändrade vid Sektionsmötet 2024-01-23
+Senast ändrade vid Sektionsmötet 2025-01-20
 
 \pagebreak
 
@@ -129,7 +129,7 @@ Sektionsstyrelsen kan även föreslå andra firmatecknare som sektionsmötet kan
 
 ### §1.10 Sektionens födelsedag
 
-§1.10.1 Sektionens födelsedag infaller den 4 december 2008.
+§1.10.1 Sektionens födelsedag infaller den 12 september 2000.
 
 ## §2 Styrdokument
 
