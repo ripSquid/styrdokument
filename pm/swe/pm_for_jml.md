@@ -82,4 +82,8 @@ Arbetar med att främja internationella studenters ställning, integration och e
 
 ## 4 Logotyp
 
+<<<<<<< Updated upstream
 ![JML Logotyp](./img/logo-jml-4k.png)
+=======
+![JML Logotyp](./img/logo-jml.svg){ width=50% }
+>>>>>>> Stashed changes
