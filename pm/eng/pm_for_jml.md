@@ -83,4 +83,4 @@ Tasked to work with promoting the position, integration, and engagement of inter
 
 ## 4 Logo
 
-![JML Logo](./img/logo-jml-1500px.png)
+![JML Logo](./img/logo-jml-4k.png)
