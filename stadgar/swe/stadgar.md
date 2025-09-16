@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-![](./img/logo-it-1500px.png)
+![Sektionen's logotyp](./img/logo-it.svg){width=50%}
 
 # Sektionen för Informationstekniks Stadgar
 
